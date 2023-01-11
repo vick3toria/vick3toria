@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src="![Vitória Sousa](https://user-images.githubusercontent.com/122412907/211853350-f7e8c2de-7ab5-4ce0-a2dc-6a42373c62c4.png)
-">
+<img src="">
 
 - 🌱 I’m currently learning **Machine Learning**
 
